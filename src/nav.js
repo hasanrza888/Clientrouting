@@ -7,7 +7,7 @@ export default function Nav(){
         <div>
             <Link to = "/">Haqqında</Link>
             <Link to = "/contact">Əlaqə məlumatları</Link>
-            <Link to = "/contact">Əlaqə id</Link>
+            <Link to = "/contact:id">Əlaqə id</Link>
             <Link to= "/ish">İş nümunələri</Link>
         </div>
        
